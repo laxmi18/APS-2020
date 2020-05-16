@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580401933 source:f:\engg\6th\aps\github\char_word_sentence\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

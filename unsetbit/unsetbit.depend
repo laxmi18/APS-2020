@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589429277 source:f:\engg\6th\aps\github_repo\unsetbit\main.c
+	<stdio.h>
+	<stdlib.h>
+

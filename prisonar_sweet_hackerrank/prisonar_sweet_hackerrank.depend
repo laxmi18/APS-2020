@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580312354 source:f:\engg\6th\aps\prisonar_sweet_hackerrank\main.c
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

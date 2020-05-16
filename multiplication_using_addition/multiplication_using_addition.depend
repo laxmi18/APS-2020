@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580364811 source:f:\engg\6th\aps\github\multiplication_using_addition\main.c
+	<stdio.h>
+	<stdlib.h>
+

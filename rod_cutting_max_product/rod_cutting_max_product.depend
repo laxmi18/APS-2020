@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580268310 source:f:\engg\6th\aps\rod_cutting_max_product\main.c
+	<stdio.h>
+	<stdlib.h>
+

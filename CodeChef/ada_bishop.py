@@ -1,0 +1,3 @@
+try:
+    t=int(input())
+    

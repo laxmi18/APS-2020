@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589425615 source:f:\engg\6th\aps\github_repo\possiblecombination\main.c
+	<stdio.h>
+	<stdlib.h>
+

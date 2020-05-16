@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589426095 source:f:\engg\6th\aps\github_repo\noofdigits\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

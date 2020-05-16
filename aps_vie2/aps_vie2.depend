@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580324328 source:f:\engg\6th\aps\aps_vie2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

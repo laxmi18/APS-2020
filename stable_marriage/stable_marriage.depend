@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579966271 source:f:\engg\6th\aps\stable_marriage\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

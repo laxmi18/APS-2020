@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581232642 source:f:\engg\6th\aps\github\han4\main.c
+	<stdio.h>
+	<stdlib.h>
+

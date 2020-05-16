@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584292743 source:f:\engg\6th\aps\github\laser\main.c
+	<stdio.h>
+	<stdlib.h>
+

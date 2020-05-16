@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580363490 source:f:\engg\6th\aps\github\swap_without_third\main.c
+	<stdio.h>
+	<stdlib.h>
+

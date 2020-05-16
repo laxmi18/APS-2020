@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580323291 source:f:\engg\6th\aps\longest_common_subsequence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
